@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Collection" max_length="40" name="x_425618_valenciad_collection" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Condition" max_length="40" name="condition" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Procured Date" max_length="40" name="procured_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Seller" max_length="40" name="seller" type="string"/>
+    </element>
+</database>
