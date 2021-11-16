@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-16 17:21:39</sys_created_on>
+        <sys_id>d5493262dbb33010902c1d63059619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_425618_valenciad_collection_maintenance.state.snc_internal</sys_name>
+        <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+        <sys_security_acl display_value="x_425618_valenciad_collection_maintenance.state">19493262dbb33010902c1d63059619ae</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d5493262dbb33010902c1d63059619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-16 17:21:39</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>d1493e6adb333010902c1d630596195e</transaction_id>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ValenciaD">59276a15db3b7010902c1d6305961952</application>
+        <file_path/>
+        <instance_id>99e44df8db40c050f492c59705961966</instance_id>
+        <instance_name>dev93522</instance_name>
+        <name>sys_security_acl_role_d5493262dbb33010902c1d63059619af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-16 17:21:39</sys_created_on><sys_id>d5493262dbb33010902c1d63059619af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_425618_valenciad_collection_maintenance.state.snc_internal</sys_name><sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package><sys_policy/><sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope><sys_security_acl display_value="x_425618_valenciad_collection_maintenance.state">19493262dbb33010902c1d63059619ae</sys_security_acl><sys_update_name>sys_security_acl_role_d5493262dbb33010902c1d63059619af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-16 17:21:39</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role><transaction_id>d1493e6adb333010902c1d630596195e</transaction_id></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1392817484</payload_hash>
+        <record_name>x_425618_valenciad_collection_maintenance.state.snc_internal</record_name>
+        <reverted_from/>
+        <source>f5f70b20db233010902c1d63059619c2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-10-29 03:02:17</sys_created_on>
+        <sys_id>d1493e62dbb33010902c1d630596196a</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17cc9ff7ea80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Access Roles</type>
+        <update_guid>91493e6252b33010baa6e3be2c272b6a</update_guid>
+        <update_guid_history>91493e6252b33010baa6e3be2c272b6a:-1392817484</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_425618_valenciad_collection_maintenance.state.snc_internal">6d493e62dbb33010902c1d630596196d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-16 17:21:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>d84f9b659d0341cf869d25dec7cab891</sys_id>
+        <sys_metadata>d5493262dbb33010902c1d63059619af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_425618_valenciad_collection_maintenance.state.snc_internal</sys_name>
+        <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+        <sys_parent display_value="">19493262dbb33010902c1d63059619ae</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+        <sys_scope_delete display_value="">2cc07bca5f344a9ca2dc11dabfa9e184</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d5493262dbb33010902c1d63059619af</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d5493262dbb33010902c1d63059619af">d1493e62dbb33010902c1d630596196a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-16 17:21:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

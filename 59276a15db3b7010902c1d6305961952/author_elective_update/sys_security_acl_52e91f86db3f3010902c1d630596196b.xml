@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Allow write for records in x_425618_valenciad_collection_maintenance, for users with role x_425618_valenciad.user, and if the ACL script returns true.</description>
+        <name>x_425618_valenciad_collection_maintenance.short_description</name>
+        <operation display_value="write">write</operation>
+        <script><![CDATA[if (gs.getUserID() == current.assigned_to) {
+    answer = true;
+} else {
+    answer = false;
+}]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 06:27:17</sys_created_on>
+        <sys_id>52e91f86db3f3010902c1d630596196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_425618_valenciad_collection_maintenance.short_description</sys_name>
+        <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+        <sys_update_name>sys_security_acl_52e91f86db3f3010902c1d630596196b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 06:27:17</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ValenciaD">59276a15db3b7010902c1d6305961952</application>
+        <file_path/>
+        <instance_id>99e44df8db40c050f492c59705961966</instance_id>
+        <instance_name>dev93522</instance_name>
+        <name>sys_security_acl_52e91f86db3f3010902c1d630596196b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;admin_overrides&gt;true&lt;/admin_overrides&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;condition/&gt;&lt;description&gt;Allow write for records in x_425618_valenciad_collection_maintenance, for users with role x_425618_valenciad.user, and if the ACL script returns true.&lt;/description&gt;&lt;name&gt;x_425618_valenciad_collection_maintenance.short_description&lt;/name&gt;&lt;operation display_value="write"&gt;write&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[if (gs.getUserID() == current.assigned_to) {
+    answer = true;
+} else {
+    answer = false;
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-11-15 06:27:17&lt;/sys_created_on&gt;&lt;sys_id&gt;52e91f86db3f3010902c1d630596196b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_425618_valenciad_collection_maintenance.short_description&lt;/sys_name&gt;&lt;sys_package display_value="ValenciaD" source="x_425618_valenciad"&gt;59276a15db3b7010902c1d6305961952&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ValenciaD"&gt;59276a15db3b7010902c1d6305961952&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_52e91f86db3f3010902c1d630596196b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-11-15 06:27:17&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-222750052</payload_hash>
+        <record_name>x_425618_valenciad_collection_maintenance.short_description</record_name>
+        <reverted_from/>
+        <source>e749a259db3b7010902c1d6305961915</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 06:27:17</sys_created_on>
+        <sys_id>dae91f86db3f3010902c1d630596196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d22474b2e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 06:27:17</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>d2e91f86043f3010069ce65cd7d5c86f</update_guid>
+        <update_guid_history>d2e91f86043f3010069ce65cd7d5c86f:-222750052</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 15:16:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>b23e148581f047acaeae38cd4219ac90</sys_id>
+        <sys_metadata>52e91f86db3f3010902c1d630596196b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_425618_valenciad_collection_maintenance.short_description</sys_name>
+        <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+        <sys_parent display_value="x_425618_valenciad_collection_maintenance">4f686259db3b7010902c1d63059619e6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+        <sys_scope_delete display_value="">2cc07bca5f344a9ca2dc11dabfa9e184</sys_scope_delete>
+        <sys_update_name>sys_security_acl_52e91f86db3f3010902c1d630596196b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_52e91f86db3f3010902c1d630596196b">dae91f86db3f3010902c1d630596196f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 15:16:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

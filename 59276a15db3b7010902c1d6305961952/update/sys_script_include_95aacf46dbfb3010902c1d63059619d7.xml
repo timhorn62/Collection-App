@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_425618_valenciad.ValenciaDUtil</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ValenciaDUtil</name>
+        <script><![CDATA[var ValenciaDUtil = Class.create();
+ValenciaDUtil.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	checkAssignedTo: function() {
+		var assignedTo = this.getParameter('sysparm_assignedTo');
+		var assignedCount = 0;
+		
+		var collectTasks = new GlideRecord('x_425618_valenciad_collection_maintenance');
+		collectTasks.addQuery('assigned_to', assignedTo);
+		collectTasks.query();
+		
+		while (collectTasks.next()) {
+			assignedCount++;
+		}		
+		
+		return assignedCount.toString();
+	},
+
+    type: 'ValenciaDUtil'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 05:21:35</sys_created_on>
+        <sys_id>95aacf46dbfb3010902c1d63059619d7</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>ValenciaDUtil</sys_name>
+        <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+        <sys_update_name>sys_script_include_95aacf46dbfb3010902c1d63059619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 05:38:53</sys_updated_on>
+    </sys_script_include>
+</record_update>

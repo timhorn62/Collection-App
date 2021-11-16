@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="collection_item" label="Collection Item" language="en" table="x_425618_valenciad_collection_maintenance">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>collection_item</element>
+            <help/>
+            <hint/>
+            <label>Collection Item</label>
+            <language>en</language>
+            <name>x_425618_valenciad_collection_maintenance</name>
+            <plural>Collection Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-12 18:55:38</sys_created_on>
+            <sys_id>0368a259db3b7010902c1d6305961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Collection Item</sys_name>
+            <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+            <sys_update_name>sys_documentation_x_425618_valenciad_collection_maintenance_collection_item_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-12 18:55:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
