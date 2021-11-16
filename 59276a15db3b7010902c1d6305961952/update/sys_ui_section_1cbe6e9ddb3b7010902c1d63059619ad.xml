@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>c84f2e11db7b7010902c1d6305961986</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>ed883e22dbb33010902c1d6305961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>404f2e11db7b7010902c1d6305961987</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>a9883e22dbb33010902c1d6305961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>c44f2e11db7b7010902c1d6305961987</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>21883e22dbb33010902c1d6305961919</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>condition</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>4c4f2e11db7b7010902c1d6305961987</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>a5883e22dbb33010902c1d6305961919</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>c04f2e11db7b7010902c1d6305961988</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>2d883e22dbb33010902c1d6305961919</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>procured_date</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>484f2e11db7b7010902c1d6305961988</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>a1883e22dbb33010902c1d630596191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>seller</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>cc4f2e11db7b7010902c1d6305961988</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>29883e22dbb33010902c1d630596191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>sys_updated_on</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>444f2e11db7b7010902c1d6305961989</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>ad883e22dbb33010902c1d630596191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,29 +116,57 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>c84f2e11db7b7010902c1d6305961989</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>25883e22dbb33010902c1d630596191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
+            <element>task_count</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-12 19:25:28</sys_created_on>
-            <sys_id>404f2e11db7b7010902c1d630596198a</sys_id>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>a9883e22dbb33010902c1d630596191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-12 19:25:28</sys_updated_on>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
             <sys_user/>
-            <type>formatter</type>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completed_task_count</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>21883e22dbb33010902c1d630596191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>percent_completed_tasks</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-16 17:18:23</sys_created_on>
+            <sys_id>a5883e22dbb33010902c1d630596191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_425618_valenciad_collection" sys_domain="global" view="Default view">1cbe6e9ddb3b7010902c1d63059619ad</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-16 17:18:23</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

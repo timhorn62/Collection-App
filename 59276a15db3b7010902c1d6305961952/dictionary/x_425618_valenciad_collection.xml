@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" label="Collection" max_length="40" name="x_425618_valenciad_collection" type="collection">
+    <element audit="true" label="Collection" max_length="40" name="x_425618_valenciad_collection" sizeclass="1" type="collection">
+        <element default="0" label="Completed Task Count" max_length="40" name="completed_task_count" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Condition" max_length="40" name="condition" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="Like New" sequence="1" value="Like New"/>
+                <element inactive_on_update="false" label="Good" sequence="2" value="Good"/>
+                <element inactive_on_update="false" label="Used" sequence="3" value="Used"/>
+                <element inactive_on_update="false" label="Very Used" sequence="4" value="Very Used"/>
+            </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" default="0" label="Percent Completed Tasks" max_length="15" name="percent_completed_tasks" type="percent_complete"/>
         <element attributes="edge_encryption_enabled=true" label="Procured Date" max_length="40" name="procured_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Seller" max_length="40" name="seller" type="string"/>
+        <element default="0" label="Total Task Count" max_length="40" name="task_count" type="integer"/>
     </element>
 </database>

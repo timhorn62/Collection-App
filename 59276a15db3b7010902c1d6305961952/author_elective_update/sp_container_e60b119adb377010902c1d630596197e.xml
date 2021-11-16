@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Homepage - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="home">09e91d1adb377010902c1d63059619e4</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 15:51:27</sys_created_on>
+        <sys_id>e60b119adb377010902c1d630596197e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Homepage - Container 2</sys_name>
+        <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+        <sys_update_name>sp_container_e60b119adb377010902c1d630596197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 15:52:00</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ValenciaD">59276a15db3b7010902c1d6305961952</application>
+        <file_path/>
+        <instance_id>99e44df8db40c050f492c59705961966</instance_id>
+        <instance_name>dev93522</instance_name>
+        <name>sp_container_e60b119adb377010902c1d630596197e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Homepage - Container 2</name><order>2</order><sp_page display_value="home">09e91d1adb377010902c1d63059619e4</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-15 15:51:27</sys_created_on><sys_id>e60b119adb377010902c1d630596197e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Homepage - Container 2</sys_name><sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package><sys_policy/><sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope><sys_update_name>sp_container_e60b119adb377010902c1d630596197e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-15 15:52:00</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1162040667</payload_hash>
+        <record_name>Homepage - Container 2</record_name>
+        <reverted_from/>
+        <source>e749a259db3b7010902c1d6305961915</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 15:52:00</sys_created_on>
+        <sys_id>222bd19adb377010902c1d63059619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d244c4ee60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 15:52:00</sys_updated_on>
+        <type>Container</type>
+        <update_guid>262b995a08377010af2068a4889b51c3</update_guid>
+        <update_guid_history>262b995a08377010af2068a4889b51c3:1162040667,a20b919a593770107d1bcde20973661b:-1057734</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Homepage - Container 2">572b159adb377010902c1d630596194b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 15:52:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>b1ef4f70bada4d68aef39fcb5b422e40</sys_id>
+        <sys_metadata>e60b119adb377010902c1d630596197e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Homepage - Container 2</sys_name>
+        <sys_package display_value="ValenciaD" source="x_425618_valenciad">59276a15db3b7010902c1d6305961952</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ValenciaD">59276a15db3b7010902c1d6305961952</sys_scope>
+        <sys_scope_delete display_value="">2cc07bca5f344a9ca2dc11dabfa9e184</sys_scope_delete>
+        <sys_update_name>sp_container_e60b119adb377010902c1d630596197e</sys_update_name>
+        <sys_update_version display_value="sp_container_e60b119adb377010902c1d630596197e">222bd19adb377010902c1d63059619ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 15:52:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
